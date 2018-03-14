@@ -1,0 +1,3 @@
+rootProject.name = 'Egov_GopY'
+
+include ':app'
